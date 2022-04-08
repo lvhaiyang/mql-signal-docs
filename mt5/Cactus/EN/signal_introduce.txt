@@ -1,0 +1,21 @@
+Account type: Hedging
+Trade item: EURUSD
+Trading cycle: M1
+Strategy introduction:
+1. Fixed position 0.01 lot / $1000
+2, a variety of trading strategies combined into the system, the market adaptability is strong
+Strategy combination includes trend market system, shock market system, reverse market system
+4, effective use of funds, a variety of entering/leaving mode
+5, fixed position 10 years back to test the average annual return of about 150%, the maximum retracement 20%
+
+Description of the back test results:
+Back test time: 2012.4-2022.4
+Starting amount: usd 1000
+Fixed position: 0.01 lot
+Total number of transactions: 89,719
+Maximum retracement: 421.74USD (19.09%)
+Total net profit: USD 15,573.61
+
+
+If you need to open an account in Swissquote Bank, please click the link
+https://trade.swissquote.ch/signup/public/form/full/fx/com/individual?lang=cn&partnerid=914198d8-405e-4b46-8905-82075dd6d15c#full/fx/com/individual/step1
