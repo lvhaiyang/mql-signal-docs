@@ -16,6 +16,12 @@ Total number of transactions: 89,719
 Maximum retracement: 421.74USD (19.09%)
 Total net profit: USD 15,573.61
 
+Mql5 signal address:
+https://www.mql5.com/zh/signals/1460168
+
+Details:
+https://github.com/lvhaiyang/mql-signal-docs
+https://gitee.com/wuchenlhy/mql-signal-docs
 
 If you need to open an account in Swissquote Bank, please click the link
 https://trade.swissquote.ch/signup/public/form/full/fx/com/individual?lang=cn&partnerid=914198d8-405e-4b46-8905-82075dd6d15c#full/fx/com/individual/step1
