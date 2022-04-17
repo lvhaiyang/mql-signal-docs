@@ -6,15 +6,15 @@ Strategy introduction:
 2. a variety of trading strategies combined into the system, the market adaptability is strong  
 3. Strategy combination includes trend market system, shock market system, reverse market system  
 4. effective use of funds, a variety of entering/leaving mode   
-5. fixed position 10 years back to test the average annual return of about 100%, the maximum retracement 4%  
+5. fixed position 10 years back to test the average annual return of about 60%, the maximum retracement 14.98%  
   
 Description of the back test results:  
 Back test time: 2012.4-2022.4  
 Starting amount: usd 1000  
 Fixed position: 0.01 lot  
-Total number of transactions: 58,178  
-Maximum retracement: 297.02USD（3.65%）    
-Total net profit: USD 10,859.14 
+Total number of transactions: 2, 159
+Maximum retracement: 644.00USD（14.98%）    
+Total net profit: USD 6, 001.13 
   
 Mql5 signal address:  
 https://www.mql5.com/zh/signals/1460168  
